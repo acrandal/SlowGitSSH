@@ -1,0 +1,6 @@
+Host gitlab.com
+        AddressFamily inet
+
+Host github.com
+        AddressFamily inet
+
